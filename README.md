@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryansh2616
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in Full Stack development
+- 🌱 I’m currently Working on Real Life Projects
 - 💞️ I’m looking to collaborate on web developer project
 - 📫 How to reach me aryanshchauhan77@gmail.com
 
